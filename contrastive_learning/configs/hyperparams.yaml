@@ -1,0 +1,10 @@
+batch_size:
+learning_rate:
+epochs:
+weight_decay:
+projection_dimension:
+samples_per_class:
+warmup_steps:
+temperature:
+eta_min:
+lr_start_factor:
